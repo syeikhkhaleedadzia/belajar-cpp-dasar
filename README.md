@@ -1,4 +1,5 @@
 🚀 Simple Grade Checker (C++)
+
 This is my very first programming project from Semester 1.
 What it does:
 - Takes a numeric score as input.
